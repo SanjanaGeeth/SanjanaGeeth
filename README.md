@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjana G Wijesinghe</h1>
-<h3 align="center">Computer Science Undergraduate</h3>
+<h3 align="center">Computer Science Undergraduate in University of Westminster</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanageeth&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanageeth" /> </p>
 
@@ -23,9 +23,9 @@
 <p align="left">
 <a href="https://dev.to/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="." height="30" width="40" /></a>
 <a href="https://twitter.com/usersaico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usersaico" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanjanagwije" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjanagwije" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjanagwijesinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjanagwije" height="30" width="40" /></a>
 <a href="https://fb.com/usersaico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usersaico" height="30" width="40" /></a>
-<a href="https://instagram.com/s_nj._.n_g__th20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_nj._.n_g__th20" height="30" width="40" /></a>
+<a href="https://instagram.com/s_nj_n._.g__th20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_nj._.n_g__th20" height="30" width="40" /></a>
 <a href="https://medium.com/@." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@." height="30" width="40" /></a>
 <a href="/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="." height="30" width="40" /></a>
 </p>
